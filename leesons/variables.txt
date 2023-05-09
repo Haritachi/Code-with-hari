@@ -1,0 +1,19 @@
+Variables :
+A variable in c is used to store data values under a name which can be used in the program .
+the value of a variable can be changed during program execution
+
+Variable declaration : 
+any and every variable must be declared before it is used
+syntax : datatype variablename;
+eg     : int a;
+
+storing values inside variables:
+every declared variable must be used in a c program. hence it is important to store values into variables
+assignment operator "=" is used for assigning values into variables
+syntax : variable = value;
+ex     : a=10;
+
+Initialisation of variables :
+Initialisation of a variable is nothing but assigning value to variable while variable declaration
+syntax : datatype varname = value;
+ex     : int a = 10;

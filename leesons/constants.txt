@@ -1,0 +1,5 @@
+Constants :
+Constants is the same as variables but the values of a constant cannot be changed once assigned
+the const is used to declare a constant
+syntax : const datatype variablename = value;
+ex     : const int a = 10;

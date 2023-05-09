@@ -1,0 +1,19 @@
+operators are used to acrry out various operations inside a program.
+the various c operators are :
+
+Arithmetic operators :
+These are used to do basic math operations                  
+1. +  -> Used to do addition                                : example : a+b
+2. -  -> Used to do subtration                              : example : a-b
+3. *  -> Used to do multiplication                          : example : a*b
+4. /  -> Used to do division                                : example : a/b
+5. %  -> Used to do division and return remainder(Modulus)  : example : a%b
+
+Relational operators :
+These are used to do comoparison between values
+1. ==   -> Equal to                                         : example : a==b
+2. <    -> less than                                        : example : a<b
+3. >    -> Greater than                                     : example : a>b
+4. <=   -> Less than or equal to                            : example : a<=b
+5. >=   -> Greater than or equal to                         : example : a>=b
+6. !=   -> Not equal to                                     : example : a!=b

@@ -1,0 +1,27 @@
+Header files :
+Header files are nothing but normal files that contain predefined constants,variables and functions
+In c the different header files are :
+1. stdio.h      -   contains standard input and output functions(printf and scanf)
+2. conio.h      -   contains configuration functions for program 
+3. math.h       -   contains functions related to math
+4. string.h     -   contains functions related to stringd
+and more... 
+the functions contained in these header files and as follows
+stdio.h:
+    printf :
+        usage  :    used to print something in terminal
+        syntax :    printf(string);
+        when printing variable values : printf("fromat specifier",variablename);
+        where format specifier - is an indicator of the datatype fo the variable to be printed
+                                 the various format specifiers are:
+                                 %i - indicates that the variable is int
+                                 %f - indicates that the variable is float
+                                 %c - indicates that the variable is an character 
+              variable name    - the value of the variable to be printed in console
+        Example : printf("hello world");
+                  printf("%d",a);
+    scanf :
+        usage  : used to get user inputs from keyboard
+        synatx : scanf("format specifier",&variable name);
+        where   &variable name - &is used to specify the address of the variable name next to it
+        Example : scanf("%d",&a);

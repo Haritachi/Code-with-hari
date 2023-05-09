@@ -1,0 +1,11 @@
+Datayypes :
+datatypes represent the types of data that a programming language acn process
+the c datatypes are :
+1. int              -   used to store whole numbers
+2. float            -   used to store decimal numbers
+3. double           -   used to store big decimal numbers and fractions
+4. char             -   used to store a single word
+5. array            -   used to store a collection of any datatype avlues under a single name
+6. linked lists     -   same as array but complex
+7. stack            -   used to store data values as stack
+8. queue            -   used to store data values as a queue
